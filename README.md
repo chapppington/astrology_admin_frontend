@@ -1,6 +1,6 @@
 
 
-#Стек: NextJS 15, tailwind 4, TypeScript, docker
+## Стек: NextJS 15, tailwind 4, TypeScript, docker
 
 По архитектуре
 
